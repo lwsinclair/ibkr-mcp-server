@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/seriallazer-ibkr-mcp-server-badge.png)](https://mseep.ai/app/seriallazer-ibkr-mcp-server)
+
 # IBKR MCP Server
 
 This project is a FastAPI application that interacts with the Interactive Brokers (IBKR) API to fetch portfolio details.
